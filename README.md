@@ -18,6 +18,6 @@
  
  4. Go to the directory of this repo cloned onto your local machine and open cmd.
  
- 5. Run the python files of your choice by typing the file name in the cmd as `motion_detection_tracking.py`
+ 5. Run the python file `motion_detection_tracking.py` in the cmd.
 
 
