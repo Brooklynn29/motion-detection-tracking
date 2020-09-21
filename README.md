@@ -1,6 +1,6 @@
 # Motion detection and tracking
 ## A simple motion detection and tracking application using OpenCV in Python
-#### This project detects and tracks the movement of people walking in a video and also shows the status of tracking
+### This project detects and tracks the movement of people walking in a video and also shows the status of tracking
 
 #### A snippet
 ![motion_detection_tracking](https://user-images.githubusercontent.com/61016383/93706240-e1ebe280-fb41-11ea-9990-c80e22e74543.gif)
