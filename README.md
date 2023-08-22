@@ -12,7 +12,7 @@
 ### Steps to use this project:
  1. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repo
  
- 2. Install Python 3.6 or greater `pip install python`
+ 2. Install Python 3.6 or greater `pip install python`.
  
  3. Intsall OpenCV for Python `pip install opencv-python`. This package includes Numpy too.
  
